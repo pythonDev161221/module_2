@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb6e37ad-aaad-41d7-8936-58acbc01bdc9" name="Changes" comment="add accounts">
+    <list default="true" id="fb6e37ad-aaad-41d7-8936-58acbc01bdc9" name="Changes" comment="переопределили User">
+      <change afterPath="$PROJECT_DIR$/source/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/webapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/accounts/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/accounts/migrations/0002_client_phone.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/source/accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/accounts/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/main/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/main/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/webapp/migrations/0001_initial.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/source/webapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/webapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/webapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/webapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +22,14 @@
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -29,6 +46,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -83,7 +101,7 @@
       <workItem from="1655971748650" duration="350000" />
       <workItem from="1655972112458" duration="540000" />
       <workItem from="1655974952880" duration="148000" />
-      <workItem from="1655993348616" duration="11817000" />
+      <workItem from="1655993348616" duration="15394000" />
     </task>
     <task id="LOCAL-00001" summary="init git">
       <created>1655972467190</created>
@@ -141,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655998438470</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="переопределили User">
+      <created>1656006021405</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656006021405</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +192,7 @@
     <MESSAGE value="git rm -r -f .idea" />
     <MESSAGE value="dsx" />
     <MESSAGE value="add accounts" />
-    <option name="LAST_COMMIT_MESSAGE" value="add accounts" />
+    <MESSAGE value="переопределили User" />
+    <option name="LAST_COMMIT_MESSAGE" value="переопределили User" />
   </component>
 </project>
