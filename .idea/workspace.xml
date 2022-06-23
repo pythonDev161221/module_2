@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb6e37ad-aaad-41d7-8936-58acbc01bdc9" name="Changes" comment="dsx">
+    <list default="true" id="fb6e37ad-aaad-41d7-8936-58acbc01bdc9" name="Changes" comment="add accounts">
+      <change beforePath="$PROJECT_DIR$/source/accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/accounts/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/main/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/main/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/webapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/webapp/models.py" afterDir="false" />
     </list>
@@ -31,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sdp/22y_05_21d/CRM_cleaning" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RunManager">
@@ -82,7 +83,7 @@
       <workItem from="1655971748650" duration="350000" />
       <workItem from="1655972112458" duration="540000" />
       <workItem from="1655974952880" duration="148000" />
-      <workItem from="1655993348616" duration="5047000" />
+      <workItem from="1655993348616" duration="11817000" />
     </task>
     <task id="LOCAL-00001" summary="init git">
       <created>1655972467190</created>
@@ -133,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655996055237</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add accounts">
+      <created>1655998438470</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655998438470</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +166,7 @@
     <MESSAGE value="create webapp" />
     <MESSAGE value="git rm -r -f .idea" />
     <MESSAGE value="dsx" />
-    <option name="LAST_COMMIT_MESSAGE" value="dsx" />
+    <MESSAGE value="add accounts" />
+    <option name="LAST_COMMIT_MESSAGE" value="add accounts" />
   </component>
 </project>
